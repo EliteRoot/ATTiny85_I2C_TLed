@@ -27,7 +27,10 @@ SSD1306xLED - Drivers for SSD1306 controlled dot matrix OLED/PLED 128x64 display
 ssd1306xled, re-written and extended by Stephen Denne
 : https://bitbucket.org/tinusaur/ssd1306xled
 
-Tiny4kOLED - Drivers for SSD1306 controlled dot matrix OLED/PLED 128x32 displays
+*Danigy/tiny-bme280 library
+:https://github.com/Danigy/tiny-bme280/
+
+*Tiny4kOLED - Drivers for SSD1306 controlled dot matrix OLED/PLED 128x32 displays
 Based on ssd1306xled, re-written and extended by Stephen Denne
 : https://github.com/datacute/Tiny4kOLED
 
