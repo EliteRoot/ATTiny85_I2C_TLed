@@ -1,4 +1,4 @@
-*/
+/*
  * I needed a degrees symbol so i modified 6x8 ? to 6x8 °
  * I'll probably endup re-writing this whole library because it's not pixel perfrect on the 64x32 OLED
  * but it is easier to read and kinda cool looking displayed incorrectly so who knows
