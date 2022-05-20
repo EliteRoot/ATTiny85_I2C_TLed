@@ -5,7 +5,6 @@ I've been pulling from tons of repositories and rewriting stiched code for this 
 
 
 
-
 Programmer: USBtinyISP https://www.amazon.ca/gp/product/B07PBVXQP8/
 Chip: ATTiny85 https://www.amazon.ca/gp/product/B09KCG3KFN/
 BMP280 Digital 5V Temperature Humidity Sensor : https://www.amazon.ca/gp/product/B095JPCL4Q/
@@ -49,3 +48,8 @@ ATTiny86  SleepMode
 
 ASCII Tables
 : https://www.techonthenet.com/ascii/chart.php 
+
+BME280 Sleep Library
+: https://github.com/G6EJD/BME280-Sleep-and-Address-change/blob/master/BME280_Sleep.ino
+
+...and some cool super capacitors and solar panels from Digikey.
