@@ -1,3 +1,5 @@
+/* See README.md for sources */
+
 #define F_CPU 8000000  // This is used by delay.h library
 
 #include <stdlib.h>
